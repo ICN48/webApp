@@ -1,2 +1,5 @@
-# webApp
-web site
+1. リポジトリをクローン
+  git clone
+
+2. 
+
