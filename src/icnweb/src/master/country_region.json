@@ -1,0 +1,16 @@
+{
+    "COUNTRY_LIST": ["japan", "korea", "usa"],
+    "REGION_LIST": ["taiwan", "parestina"],
+    "COUNTRYES": {
+        "japan": {
+            "altSpellings": ["japan", "jp", "JPN"],
+            "flag": "🇯🇵",
+            "alpha2": "JP",
+            "alpha3": "JPN",
+            "numeric_code": "000"
+        },
+        "korea": {
+
+        }
+    }
+}
